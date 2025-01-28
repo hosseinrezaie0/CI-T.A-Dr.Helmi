@@ -22,3 +22,4 @@ Location: There is a mix of urban, suburban, downtown, and rural locations. Urba
 Condition: Houses are labeled as 'Excellent', 'Good', 'Fair', or 'Poor'. This feature helps model the price differences based on the current state of the house.
 Price Distribution: Prices range between $50,000 and $1,000,000, offering a broad spectrum of property values. This range makes the dataset appropriate for predicting a wide variety of housing prices, from affordable homes to luxury properties.
 
+LINK: https://www.kaggle.com/datasets/zafarali27/house-price-prediction-dataset
